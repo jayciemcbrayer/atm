@@ -23,3 +23,10 @@ For Lab3 you will be creating an ATM program.
 * The code should be well documented with comments, have good code structure, and follow naming conventions.
 
 * Push your code to your repository.
+#pseudocode
+Access account via PIN
+Create an account via PIN
+See balance
+Deposit money and see updated balance
+Widthdrawl money and see updated balance
+Change PIN
